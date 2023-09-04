@@ -1,10 +1,13 @@
 # Exploratory_Data_Analysis_Retail
+
 Retail EDA project on "Sample Superstore" dataset. Explore sales, customer info &amp; products. Discover patterns, insights &amp; improve business strategies. Data analysis, visualization, customer segmentation &amp; more.
 
 # Retail EDA
+
 This repository contains an Exploratory Data Analysis (EDA) for the retail domain using the "Sample Superstore" dataset. The dataset provides valuable insights into sales, customer information, and product details from a fictional retail store. The goal of this EDA is to analyze and understand the data, discover patterns, relationships, and actionable insights that can help improve business strategies.
 
 # Dataset Information
+
 The "Sample Superstore" dataset consists of the following columns:
 
     1. Order ID: Unique identifier for each order.
@@ -31,22 +34,18 @@ The "Sample Superstore" dataset consists of the following columns:
 # Getting Started
 To explore the dataset and perform the EDA, follow these steps:
 
-1. Clone the Repository: 
-Clone this repository to your local machine using the following command:
- ```bash
-#!/bin/bash
-git clone https://github.com/your-username/my-awesome-project.git
-cd Exploratory_Data_Analysis_Retail 
+    1. Clone the Repository: Clone this repository to your local machine using the following command:
+        git clone https://github.com/your-username/my-awesome-project.git
+        cd Exploratory_Data_Analysis_Retail 
     
-2. Install Dependencies:
-Ensure you have Python and Jupyter Notebook installed. Additionally, install the required Python libraries by running:
-
- ```bash
-pip install pandas matplotlib seaborn 
+    2. Install Dependencies:
+        Ensure you have Python and Jupyter Notebook installed. Additionally, install the required Python libraries by running:
+        pip install pandas matplotlib seaborn 
     
- 3. Explore the Data: Open the Jupyter Notebook file (e.g., Exploratory Data Analysis - Retail.ipynb) using Jupyter Notebook:
-    jupyter notebook Data science & BI with GRIP Foundations Internship Task3.ipynb
- 4. Run the Analysis: Within the Jupyter Notebook, execute the cells to perform the exploratory data analysis on the "Sample Superstore" dataset.
+     3. Explore the Data: Open the Jupyter Notebook file (e.g., Exploratory Data Analysis - Retail.ipynb) using Jupyter Notebook:
+        jupyter notebook Data science & BI with GRIP Foundations Internship Task3.ipynb
+ 
+     4. Run the Analysis: Within the Jupyter Notebook, execute the cells to perform the exploratory data analysis on the "Sample Superstore" dataset.
     
 # EDA Goals
 During the exploratory data analysis, we aim to achieve the following objectives:
