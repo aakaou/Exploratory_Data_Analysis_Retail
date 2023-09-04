@@ -6,6 +6,7 @@ This repository contains an Exploratory Data Analysis (EDA) for the retail domai
 
 # Dataset Information
 The "Sample Superstore" dataset consists of the following columns:
+
     1. Order ID: Unique identifier for each order.
     2. Order Date: The date when the order was placed.
     3. Ship Date: The date when the order was shipped.
