@@ -30,12 +30,15 @@ The "Sample Superstore" dataset consists of the following columns:
     
 # Getting Started
 To explore the dataset and perform the EDA, follow these steps:
+
     1. Clone the Repository: Clone this repository to your local machine using the following command:
+    
     ```bash
     git clone https://github.com/your-username/my-awesome-project.git
     cd Exploratory Data Analysis - Retail 
     ```
     3. Install Dependencies: Ensure you have Python and Jupyter Notebook installed. Additionally, install the required Python libraries by running:
+    
     ```bash
     pip install pandas matplotlib seaborn 
     ```
@@ -45,6 +48,7 @@ To explore the dataset and perform the EDA, follow these steps:
     
 # EDA Goals
 During the exploratory data analysis, we aim to achieve the following objectives:
+
     1. Data Cleaning: Handle missing values, duplicates, and any inconsistencies in the dataset.
     2. Descriptive Statistics: Compute summary statistics to understand the central tendencies and distributions of numerical features.
     3. Data Visualization: Create insightful visualizations (e.g., bar plots, scatter plots, histograms) to identify patterns, trends, and correlations.
@@ -55,6 +59,7 @@ During the exploratory data analysis, we aim to achieve the following objectives
     
 # Contribution Guidelines
 If you wish to contribute to this project, please follow the standard GitHub workflow:
+
     1. Fork the repository.
     2. Create a new branch for your feature/fix.
     3. Make your changes and commit them with descriptive commit messages.
