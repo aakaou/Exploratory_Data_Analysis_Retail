@@ -36,12 +36,12 @@ To explore the dataset and perform the EDA, follow these steps:
     ```bash
     git clone https://github.com/your-username/my-awesome-project.git
     cd Exploratory Data Analysis - Retail 
-    ```
+    
     3. Install Dependencies: Ensure you have Python and Jupyter Notebook installed. Additionally, install the required Python libraries by running:
     
     ```bash
     pip install pandas matplotlib seaborn 
-    ```
+    
     4. Explore the Data: Open the Jupyter Notebook file (e.g., Exploratory Data Analysis - Retail.ipynb) using Jupyter Notebook:
     jupyter notebook Data science & BI with GRIP Foundations Internship Task3.ipynb
     6. Run the Analysis: Within the Jupyter Notebook, execute the cells to perform the exploratory data analysis on the "Sample Superstore" dataset.
