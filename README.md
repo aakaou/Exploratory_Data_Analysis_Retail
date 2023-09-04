@@ -30,13 +30,16 @@ The "Sample Superstore" dataset consists of the following columns:
 # Getting Started
 To explore the dataset and perform the EDA, follow these steps:
     1. Clone the Repository: Clone this repository to your local machine using the following command:
-    '''bash
-git clone https://github.com/your-username/Exploratory Data Analysis - Retail.git
-cd Exploratory Data Analysis - Retail
+    ```bash
+    git clone https://github.com/your-username/my-awesome-project.git
+    cd Exploratory Data Analysis - Retail 
+    
     3. Install Dependencies: Ensure you have Python and Jupyter Notebook installed. Additionally, install the required Python libraries by running:
-pip install pandas matplotlib seaborn
+    ```bash
+    pip install pandas matplotlib seaborn 
+    
     4. Explore the Data: Open the Jupyter Notebook file (e.g., Exploratory Data Analysis - Retail.ipynb) using Jupyter Notebook:
-jupyter notebook Exploratory Data Analysis - Retail.ipynb
+    jupyter notebook Data science & BI with GRIP Foundations Internship Task3.ipynb
     6. Run the Analysis: Within the Jupyter Notebook, execute the cells to perform the exploratory data analysis on the "Sample Superstore" dataset.
     
 # EDA Goals
@@ -60,5 +63,4 @@ If you wish to contribute to this project, please follow the standard GitHub wor
 Let's get started with the Retail Exploratory Data Analysis and unlock valuable insights from the "Sample Superstore" dataset! Happy analyzing! 🚀
 
 # Author
-
 Full Name: Aboubakr Aakaou
